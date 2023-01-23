@@ -36,7 +36,7 @@ jobs:
       run: |
         git config --global user.name rashi3088
         git config --global user.email rashivarshney97@@gmail.com
-        git remote set-url origin https://${{secrets.GITHUB_TOKEN}}@github.com/rashi3088/portfolio-website.git
+        git remote set-url origin https://${{secrets.ACCESS_TOKEN}}@github.com/rashi3088/portfolio-website.git
         npm run deploy
     
 #     - run: npm ci
