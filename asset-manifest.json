@@ -1,30 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.943cda4f.css",
-    "main.js": "/portfolio-website/static/js/main.095d0496.js",
-    "static/js/415.4d6acbeb.chunk.js": "/portfolio-website/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolio-website/static/js/787.1ed0c42c.chunk.js",
-    "static/media/leaf.png": "/portfolio-website/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/emotion.png": "/portfolio-website/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/portfolio-website/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/codeEditor.png": "/portfolio-website/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/home-main.png": "/portfolio-website/static/media/home-main.157e9f4178d89213596c.png",
-    "static/media/blog.png": "/portfolio-website/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/about.png": "/portfolio-website/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/chatify.png": "/portfolio-website/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/portfolio-website/static/media/Soumyajit_Behera-BIT_MESRA.bbcb2cb6b9e727b164f6.pdf",
-    "static/media/home-bg.jpg": "/portfolio-website/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/logo.png": "/portfolio-website/static/media/logo.6f467c0ef79c29594cce.png",
-    "static/media/avatar.svg": "/portfolio-website/static/media/avatar.6048c5ddcfc07b5213024aec8dcef13a.svg",
-    "static/media/pre.svg": "/portfolio-website/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/portfolio-website/index.html",
-    "main.943cda4f.css.map": "/portfolio-website/static/css/main.943cda4f.css.map",
-    "main.095d0496.js.map": "/portfolio-website/static/js/main.095d0496.js.map",
-    "415.4d6acbeb.chunk.js.map": "/portfolio-website/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolio-website/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.2d9dd614.css",
+    "main.js": "/static/js/main.927b9319.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/profile-pic.png": "/static/media/profile-pic.a1cfcda5969952c2079a.png",
+    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/Rashi-Resume.pdf": "/static/media/Rashi-Resume.2cc33a6ad99a4c936d20.pdf",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/static/media/logo.6f467c0ef79c29594cce.png",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.2d9dd614.css.map": "/static/css/main.2d9dd614.css.map",
+    "main.927b9319.js.map": "/static/js/main.927b9319.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.943cda4f.css",
-    "static/js/main.095d0496.js"
+    "static/css/main.2d9dd614.css",
+    "static/js/main.927b9319.js"
   ]
 }
