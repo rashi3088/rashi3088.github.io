@@ -13,17 +13,17 @@ function AboutCard() {
             I am currently employed as a <span className="purple">Software Developer</span>, working for the Offers 
             and Pricing team in Varis, a subsidiary of Office Depot Ltd.
             <br />
-            I am currently residing in <span className="purple"> Columbia, Maryland</span>.
+            I am currently residing in <span className="purple"> Downtown San Francisco, California</span>.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Dancing
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writting Tech Blogs
+              <ImPointRight /> Playing My Ukulele
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
@@ -31,9 +31,9 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "There's only one way to find out - and that is to take a LEAP OF FAITH!"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Rashi</footer>
         </blockquote>
       </Card.Body>
     </Card>
