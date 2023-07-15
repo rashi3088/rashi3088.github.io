@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "http://rashi3088.github.io/portfolio-website",
+  "homepage": "http://rashi3088.github.io",
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
