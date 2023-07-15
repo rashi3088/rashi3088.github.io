@@ -3,13 +3,10 @@ import { Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
 import pdf from "../../Assets/../Assets/Rashi-Resume.pdf";
-// import pdf from "../../Assets/Haramrit_Khurana_Resume_18Sep2022.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
-import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 import AllPagesPDFViewer from "../AllPagesPDFViewer";
 
-const resumeLink = "../../Assets/Rashi-Resume.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
@@ -22,7 +19,7 @@ function ResumeNew() {
     <div>
       <Container fluid className="resume-section">
         <Particle />
-        {/* <Row style={{ justifyContent: "center", position: "relative" }}>
+        <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
             href={pdf}
@@ -48,7 +45,7 @@ function ResumeNew() {
             <AiOutlineDownload />
             &nbsp;Download CV
           </Button>
-        </Row> */}
+        </Row>
       </Container>
     </div>
   );

@@ -17,7 +17,7 @@ export default function AllPages(props) {
   return (
     <Document
       file={pdf}
-      options={{ workerSrc: "pdf.worker.js" }}
+      options={{ workerSrc: "/pdf.worker.js" }}
       onLoadSuccess={onDocumentLoadSuccess}
       className="d-flex justify-content-center"
     >
