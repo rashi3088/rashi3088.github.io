@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.2d9dd614.css",
-    "main.js": "/static/js/main.959a2406.js",
+    "main.js": "/static/js/main.9f193f9b.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/profile-pic.png": "/static/media/profile-pic.b91b5f42adc5fd1acc01.png",
+    "static/media/profile-pic-2.png": "/static/media/profile-pic-2.5ce5c57656f6553e6212.png",
     "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/profile-pic.png": "/static/media/profile-pic.a1cfcda5969952c2079a.png",
     "static/media/Rashi-Resume.pdf": "/static/media/Rashi-Resume.1469a396bcaf0f433916.pdf",
     "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
     "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
@@ -18,12 +19,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.2d9dd614.css.map": "/static/css/main.2d9dd614.css.map",
-    "main.959a2406.js.map": "/static/js/main.959a2406.js.map",
+    "main.9f193f9b.js.map": "/static/js/main.9f193f9b.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d9dd614.css",
-    "static/js/main.959a2406.js"
+    "static/js/main.9f193f9b.js"
   ]
 }
