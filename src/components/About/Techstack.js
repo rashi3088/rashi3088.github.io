@@ -11,6 +11,7 @@ import {
   SiAmazonaws,
   SiSpringboot,
   SiDotnet,
+  SiGraphql,
 } from "react-icons/si";
 
 import { FaJava } from "react-icons/fa";
@@ -31,6 +32,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPostgresql />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGraphql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiApachekafka />
