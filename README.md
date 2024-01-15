@@ -23,7 +23,7 @@ My personal portfolio website
 - After you have made your changes, open CMD and navigate to the directory where you cloned your repository
 - Run `npm run deploy`
 - This might take a couple minutes to build, but after that, you should see a `Published` message (or something like that) on the CMD. This means the app changes have successfully been deployed to your website
-- You can go confirm it at [https://rashi3088.github.io/portfolio-website](https://rashi3088.github.io/portfolio-website)
+- You can go confirm it at [https://rashi3088.github.io/](https://rashi3088.github.io/portfolio-website)
 - You can also check the status of your deployment on this [link](https://github.com/rashi3088/portfolio-website/actions/workflows/pages/pages-build-deployment).
 
 #### References:
